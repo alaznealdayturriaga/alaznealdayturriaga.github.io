@@ -1,3 +1,3 @@
-# Bienvenida a mi blog
+# Ongi etorri nire webgunera!
 
-Me alegro de que estés aquí. Pienso hablar sobre ...
+Alazne Aldayturriaga naiz
