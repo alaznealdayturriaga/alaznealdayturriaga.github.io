@@ -1,4 +1,4 @@
-# Tu repositorio GitHub Learning Lab para GitHub Pages
+
 
 Bienvenidoa a **tu** repositorio para tu curso de GitHub Learning Lab. Este repositorio se usará durante las diferentes actividades por las que te iré guiando.
 
