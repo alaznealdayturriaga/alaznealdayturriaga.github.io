@@ -1,6 +1,6 @@
 ---
 title: "The Lean UX Canvas"
-date: 2020-11-23
+date: 2020-10-06
 ---
 
 Lean UX Canvas se utiliza para ayudar a los grupos de trabajo a que enmarquen su trabajo y lo encaminen como un problema de negocio a resolver. 
