@@ -9,7 +9,7 @@ Si se toma la investigación como eje de la metodología de usuarios, se descubr
 * Por qué la gente hace lo que hace
 * Cómo trazar soluciones
 
-### Research learning spiral
+#### Research learning spiral
 ![Research learning spiral](/irudiak/IMG_1346.png)
 
 * Permite definir área de enfoque y alcance de la investigación
@@ -30,3 +30,36 @@ Recolectar datos: QUÉ
 Integrar comprensión contextual: POR QUÉ
 5. Completar la síntesis: 
 Probar o desechar hipótesis para dar sentido a los datos recolectados. Descubrir oportunidades.
+
+
+## Tipos de investigación de usuarios enfocadas a diseño de UX
+
+###### Primaria
+
+Sirve para: 
+* entender el proyecto
+* conocer usuarios y stakeholders y sus necesidades 
+* hacerse idea del alcance del proyecto
+
+###### Secundaria
+
+Se lleva a cabo con __libros__, __estudios__, __soluciones a otros proyectos__. Es decir, con información secundaria.
+
+Es importante hacer una investigación primaria antes.
+
+###### Evaluativa
+
+Sirve para acercarse a los problemas, necesidades y deseos
+
+Herramienta: *Think Aloud*
+* Usuario realiza tareas y comenta problemas
+* Entrevista: plantea soluciones
+
+###### Exploratoria
+
+Para investigar lo inexplorado y __dirigir__ el rumbo del producto a un __nuevo mercado__ para después tener una base de investigación.
+
+###### Generativa
+
+Sirve para elegir a qué problemas dar solución después de una investigación primaria y secundaria.
+* Observar entorno natural
