@@ -10,7 +10,7 @@ Si se toma la investigación como eje de la metodología de usuarios, se descubr
 * Cómo trazar soluciones
 
 ### Research learning spiral
-![Research learning spiral](IMG_1346.png)
+![Research learning spiral](/irudiak/IMG_1346.png)
 
 * Permite definir área de enfoque y alcance de la investigación
 
