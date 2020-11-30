@@ -34,20 +34,20 @@ Probar o desechar hipótesis para dar sentido a los datos recolectados. Descubri
 
 ## Tipos de investigación de usuarios enfocadas a diseño de UX
 
-###### Primaria
+#### Primaria
 
 Sirve para: 
 * entender el proyecto
 * conocer usuarios y stakeholders y sus necesidades 
 * hacerse idea del alcance del proyecto
 
-###### Secundaria
+#### Secundaria
 
 Se lleva a cabo con __libros__, __estudios__, __soluciones a otros proyectos__. Es decir, con información secundaria.
 
 Es importante hacer una investigación primaria antes.
 
-###### Evaluativa
+#### Evaluativa
 
 Sirve para acercarse a los problemas, necesidades y deseos
 
@@ -55,11 +55,11 @@ Herramienta: *Think Aloud*
 * Usuario realiza tareas y comenta problemas
 * Entrevista: plantea soluciones
 
-###### Exploratoria
+#### Exploratoria
 
 Para investigar lo inexplorado y __dirigir__ el rumbo del producto a un __nuevo mercado__ para después tener una base de investigación.
 
-###### Generativa
+#### Generativa
 
 Sirve para elegir a qué problemas dar solución después de una investigación primaria y secundaria.
 * Observar entorno natural
