@@ -26,8 +26,8 @@ Hay que hacer una investigación contextual: entrevistas, encuestas etc... para:
    * datos clave
    * identificar puntos de influencia
 4. Dirigir el proceso:
-Recolectar datos: QUÉ 
-Integrar comprensión contextual: POR QUÉ
+Recolectar datos: __Qué__ 
+Integrar comprensión contextual: __Por qué__
 5. Completar la síntesis: 
 Probar o desechar hipótesis para dar sentido a los datos recolectados. Descubrir oportunidades.
 
