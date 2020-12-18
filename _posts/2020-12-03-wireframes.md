@@ -46,11 +46,11 @@ Communicate nature of interaction
 They have more than one __state__: clicked/not clicked; active/inactive...
  * It's helpful to create a little detailed wireframe to show each of the states 
 
- #### Layer 3: Beyond rectangles
+ #### Layer 3: Beyond rectangles 
  This 3rd layer polishes the wireframes, but they are __not necessary__
 
  ##### Grids
-Grids help set a visual framework for the alignment of the elements on the page
+ Grids help set a visual framework for the alignment of the elements on the page
 
 ##### Priorization styles
 Priorization can go by: typography, grayscale, line weight etc.
